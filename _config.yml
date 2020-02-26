@@ -285,6 +285,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  algorithms:
+    output: true
+    permalink: /:collection/:path/
 
 
 # HTML Compression
@@ -314,6 +317,7 @@ defaults:
       type: pages
     values:
       layout: single
+      author_profile: false
   # _portfolio
   - scope:
       path: ""
@@ -321,4 +325,11 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
+      share: false
+  # _algorithms
+  - scope:
+      path: ""
+      type: algorithms
+    values:
+      layout: single
+      author_profile: false
