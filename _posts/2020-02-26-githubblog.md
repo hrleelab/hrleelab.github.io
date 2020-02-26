@@ -1,6 +1,6 @@
 ---
 title: "[GitHub Blog] 깃허브 블로그 만들기(with Atom Editor)"
-excerpt: ""
+excerpt: "Jekyll 테마와 Atom 에디터를 사용하여 깃허브 블로그 만들기"
 categories: GitHub
 ---
 
