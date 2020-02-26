@@ -5,9 +5,11 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Portfolio"
-    url: /categories/portfolio/
+    url: /portfolio/
   - title: "Algorithms"
-    url: /categories/algorithms/
+    url: /categories/#Algorithms/
+  - title: "DataScience"
+    url: /categories/#DataScience/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
