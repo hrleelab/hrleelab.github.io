@@ -1,7 +1,11 @@
 ---
 title: "[IT 강의] IT 강의 등 다양한 인터넷 강의 사이트 모음"
 excerpt: "구름 EDU, 인프런, 프로그래머스, eduwith, K-MOOC, KOOC 등의 사이트에 대해 알아보자"
+<<<<<<< HEAD
 categories: Algorithm DataScience Security
+=======
+categories: Algorithm, DataScience, Security
+>>>>>>> 4b7c56bff66e6c318738be131d43afa6fff779bc
 ---
 
 ## [구름 EDU](https://edu.goorm.io)
